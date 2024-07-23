@@ -17,7 +17,6 @@ public class Aim : MonoBehaviour
 
 
 
-
     private void Rotate()
     {
         Vector3 mousePos = Input.mousePosition;
